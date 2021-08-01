@@ -1,2 +1,2 @@
 E é aqui que tudo acontece
-ou seja o cogigo
+ou seja o codigo
